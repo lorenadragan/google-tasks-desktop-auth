@@ -1,0 +1,1 @@
+D:\MAUI-Projects\GoogleTasksTest\GoogleTasksTest\GoogleTasksTest.csproj;x64

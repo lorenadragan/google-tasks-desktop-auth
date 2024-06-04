@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MAUI-Projects\\GoogleTasksTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EA2BA4-4B1B-4822-87CA-6A3AEE8DFED7}|GoogleTasksTest\\GoogleTasksTest.csproj|d:\\maui-projects\\googletaskstest\\googletaskstest\\googletasksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EA2BA4-4B1B-4822-87CA-6A3AEE8DFED7}|GoogleTasksTest\\GoogleTasksTest.csproj|solutionrelative:googletaskstest\\googletasksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EA2BA4-4B1B-4822-87CA-6A3AEE8DFED7}|GoogleTasksTest\\GoogleTasksTest.csproj|d:\\maui-projects\\googletaskstest\\googletaskstest\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EA2BA4-4B1B-4822-87CA-6A3AEE8DFED7}|GoogleTasksTest\\GoogleTasksTest.csproj|solutionrelative:googletaskstest\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EA2BA4-4B1B-4822-87CA-6A3AEE8DFED7}|GoogleTasksTest\\GoogleTasksTest.csproj|d:\\maui-projects\\googletaskstest\\googletaskstest\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EA2BA4-4B1B-4822-87CA-6A3AEE8DFED7}|GoogleTasksTest\\GoogleTasksTest.csproj|solutionrelative:googletaskstest\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 197,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\MAUI-Projects\\GoogleTasksTest\\GoogleTasksTest\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "GoogleTasksTest\\MainPage.xaml.cs",
+              "ToolTip": "D:\\MAUI-Projects\\GoogleTasksTest\\GoogleTasksTest\\MainPage.xaml.cs",
+              "RelativeToolTip": "GoogleTasksTest\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:00:02.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\MAUI-Projects\\GoogleTasksTest\\GoogleTasksTest\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "GoogleTasksTest\\MauiProgram.cs",
+              "ToolTip": "D:\\MAUI-Projects\\GoogleTasksTest\\GoogleTasksTest\\MauiProgram.cs",
+              "RelativeToolTip": "GoogleTasksTest\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:59:58.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoogleTasksService.cs",
+              "DocumentMoniker": "D:\\MAUI-Projects\\GoogleTasksTest\\GoogleTasksTest\\GoogleTasksService.cs",
+              "RelativeDocumentMoniker": "GoogleTasksTest\\GoogleTasksService.cs",
+              "ToolTip": "D:\\MAUI-Projects\\GoogleTasksTest\\GoogleTasksTest\\GoogleTasksService.cs",
+              "RelativeToolTip": "GoogleTasksTest\\GoogleTasksService.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAgwEEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:53:29.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
